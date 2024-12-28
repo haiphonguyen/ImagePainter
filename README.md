@@ -29,7 +29,7 @@
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/phonguyen/ImagePainter.git
+   git clone https://github.com/haiphonguyen/ImagePainter.git
    cd ImagePainter
    ```
 
